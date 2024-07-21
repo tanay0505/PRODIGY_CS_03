@@ -14,6 +14,5 @@ Features
 <br>
 
 Usage
-- Clone the repository.
 - Run the script and input your password when prompted.
 - Receive feedback on your password's strength and suggestions for improvement.
