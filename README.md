@@ -1,7 +1,6 @@
 # PRODIGY_CS_03
 
-Password Strength Assessment Tool
-<br>
+
 This repository contains a Python script that evaluates the strength of a password based on specific criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. The tool provides immediate feedback to users, helping them understand how to improve their passwords for better security.
 
 <br>
